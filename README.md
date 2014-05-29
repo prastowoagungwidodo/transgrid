@@ -7,7 +7,7 @@ Requirement:
 =======================
 
 Example :
-
+<code>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -61,5 +61,5 @@ Example :
   </body>
 </html>
 	
-
+</code>
 
